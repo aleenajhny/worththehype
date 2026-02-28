@@ -182,3 +182,12 @@ Final verdict section summarizing aggregated scores with delta classification an
 - **Description:**
   - Generates a neutral community summary  
   - Classifies review credibility (Likely Genuine / Low Confidence / Promotional)
+
+
+---
+
+## 🎥 Demo Video
+
+Watch the project demo here:
+
+▶️ [Click to watch demo](videos/demo.mp4)
