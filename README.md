@@ -188,6 +188,4 @@ Final verdict section summarizing aggregated scores with delta classification an
 
 ## 🎥 Demo Video
 
-Watch the project demo here:
-
-▶️ [Click to watch demo](videos/demo.mp4)
+▶️ [Watch the full demo on YouTube](https://youtu.be/cOPE1BN2TMI)
