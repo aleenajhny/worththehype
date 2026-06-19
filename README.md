@@ -34,8 +34,6 @@ Instead of showing what’s popular, it compares online hype with real user expe
 - Aleena Johny – (College)  
 - Aswathy K A – (College)  
 
-**Hosted Project Link:**  
-https://worththehype001.vercel.app/
 
 ---
 
